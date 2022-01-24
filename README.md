@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/MrMao14/EatQuin"><img src="https://github.com/MrMao14/EatQuin/blob/main/static/image/ClickBefore.png?raw=true" width="100" height="100" alt="EatKano"></a>
+  <a href="https://github.com/MrMao14/EatQuin"><img src="https://github.com/MrMao14/EatQuin/blob/main/static/image/ClickBefore.png?raw=true" width="100" height="100" alt="EatQuin"></a>
 </p>
 <div align="center">
 
